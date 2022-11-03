@@ -1,2 +1,3 @@
-# agendaPagos
-Proyecto backend de una agenda de pagos.
+# AgendaPagos
+
+Backend app de Agenda de Pagos
